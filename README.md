@@ -31,3 +31,6 @@ The main objectives of our project are:
 
 This project is being conducted by Shahar Lev Tov and Daria Triffon.
 
+## Link to Presentation
+
+https://docs.google.com/presentation/d/1bM1FU8P6g4_XEbqgN2VerUaep6r9oyY6XDJdNvLV20E/edit?usp=sharing
